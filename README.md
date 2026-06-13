@@ -1,6 +1,6 @@
 # Language is information and information is evrything for human development 
 Hello, World! 👋
-Welcome to my profile! I am a Chinese guy who is native in Chinese (Mandarin/Cantonese) and fluent in English.
+Welcome to my profile! I am a Chinese guy who is native in Chinese and fluent in English.
 
 You might look at the list of languages I am learning—Japanese, German, Spanish, Vietnamese, Korean, French, and Malay—and wonder: Why on earth is he collecting languages like Infinity Stones?
 
